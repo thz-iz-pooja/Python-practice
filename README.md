@@ -1,2 +1,2 @@
 # Python-practice
-Inventory management using python 
+Inventory management, Car manufacturing analysis and Olympic data analysis using python 
